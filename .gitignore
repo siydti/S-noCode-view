@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 .history
+.eslintignore
 
 # Editor directories and files
 .vscode/*
