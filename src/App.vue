@@ -1,3 +1,8 @@
+<!--
+ * @Description: 请填写简介
+ * @Author: 李晨熙
+ * @Date: 2024-01-02 16:10:23
+-->
 <script setup lang="ts">
 import HelloWorld from "./components/HelloWorld.vue";
 </script>
@@ -12,9 +17,6 @@ import HelloWorld from "./components/HelloWorld.vue";
     </a>
   </div>
 
-
-
-  
   <HelloWorld msg="Vite + Vue" />
 </template>
 
